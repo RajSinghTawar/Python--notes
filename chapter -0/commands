@@ -1,0 +1,23 @@
+pwd --> (print working dictionary) current location 
+ls ---> (list) folder of data 
+clear ---> screen clear
+cd ---> (change directory) for drive change  /ex.-> cd e://
+mkdir --> (make directory) folder create  /ex.-> makedir "folder name"
+cd ---> (changr directory) for folder inside folder  /ex.-> cd folder name
+touch --> create a file  /ex.-> touch rohit.txt
+cd.. --> for back
+cd " " -->  cd "folder name"
+rm --> (remove file)  rm file name.txt
+rm -rf --> (recusive force) remove the folder  /ex.-> rm -rf folder name 
+mv -->  for rename and any file of in move the folder 
+                                    /ex.-> mv oldFileName NewFileName       
+                                    /ex.-> mv FileName ./FolderName       
+mv FileName .. ---> for back the file 
+cp ---> for copy file  /ex.-> cp FileName  ./FolderName               
+
+> # run the python program -:
+   python file name.py
+
+# code for python file -:
+   code file name.py
+
